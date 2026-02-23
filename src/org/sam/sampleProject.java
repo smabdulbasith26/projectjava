@@ -13,6 +13,8 @@ public class sampleProject {
 		int a = 12345;
 		System.out.println(a);
 		
+		System.out.println("Changed to Branch A");
+		
 	}
 
 }
