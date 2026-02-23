@@ -13,8 +13,14 @@ public class sampleProject {
 		int a = 12345;
 		System.out.println(a);
 		
-		int b = 545;
-		System.out.println(b);
+
+
+	System.out.println("Changed to Branch A");
+		
+
+	int b = 545;
+	System.out.println(b);
+
 		
 	}
 
